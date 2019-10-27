@@ -1,0 +1,2 @@
+# Snowmaker
+A discord bot
